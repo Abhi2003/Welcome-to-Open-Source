@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://hsrah00.github.io/Harsh/">
+                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
@@ -171,8 +178,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/lmutum">
-                    <img src="https://avatars.githubusercontent.com/u/121336595?v=4" width="100px;" alt="Lakshman Mutum"/>
+                <a href="https://github.com/Abhi2003">
+                    <img src="https://avatars.githubusercontent.com/u/77878418?v=4" width="100px;" alt="Lakshman Mutum"/>
                     <br />
                     <sub><b>Lakshman Mutum</b></sub>
                 </a>
